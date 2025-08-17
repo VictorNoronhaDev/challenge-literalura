@@ -14,7 +14,7 @@ Você **não precisa editar** `application.properties`. A aplicação lê estas 
 ```
 DB_HOST            # ex.: localhost
 DB_PORT            # ex.: 5432
-DB_NAME            # ex.: literalura
+DB_NAME_LITERALURA # ex.: literalura
 DB_USER            # ex.: postgres
 DB_PASSWORD        # ex.: postgres
 ```
